@@ -22,7 +22,7 @@ public class DocReading {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String filepath ="D:\\Docu\\API Testing Training.docx";
+		//String filepath ="D:\\Docu\\API Testing Training.docx";
 		try
 		{
 			FileInputStream fis = new FileInputStream("D:\\\\Docu\\\\DocData.docx");
